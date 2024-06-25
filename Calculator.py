@@ -14,7 +14,7 @@ Results.pack()
 
 Equation=""
 
-# When i prees a symbol or number to show on screen
+# When i press a symbol or number to show on screen
 def showing(value):
     global Equation
     
@@ -126,4 +126,6 @@ Button(Window,text="(", width=3, height=1, font=("arial",30,"bold"), bd=1,fg="#2
 Button(Window,text=")", width=2, height=1, font=("arial",30,"bold"), bd=1,fg="#282828",bg="#808A87",command=lambda: showing(")")).place(x=65,y= 460)
 Button(Window,text="√x", width=4, height=1, font=("arial",30,"bold"), bd=1,fg="#282828",bg="#808A87",command=lambda: root()).place(x=1,y= 300)
 Button(Window,text="x!", width=4, height=1, font=("arial",30,"bold"), bd=1,fg="#282828",bg="#808A87",command=lambda: factorial()).place(x=1,y= 380)
+
+
 Window.mainloop()
