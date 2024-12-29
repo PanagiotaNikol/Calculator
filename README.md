@@ -5,22 +5,22 @@ This is a simple calculator application built using Python and Tkinter. The appl
   * Basic Operations: Addition, Subtraction, Multiplication, Division
   
   * Advanced Functions:
-      > Square (x^2)
-      > Power (x^y)
-      > Inverse (1/x)
-      > Square Root (√x)
-      > Factorial (x!)
+      * Square (x^2)
+      * Power (x^y)
+      * Inverse (1/x)
+      * Square Root (√x)
+      * Factorial (x!)
 2. Usage
-  > Clear: Clears the current input.
-  > Square: Calculates the square of the current input.
-  > Power: Raises the current input to the power of the next input.
-  > Inverse: Calculates the inverse of the current input.
-  > Square Root: Calculates the square root of the current input.
-  > Factorial: Calculates the factorial of the current input.
+  * Clear: Clears the current input.
+  * Square: Calculates the square of the current input.
+  * Power: Raises the current input to the power of the next input.
+  * Inverse: Calculates the inverse of the current input.
+  * Square Root: Calculates the square root of the current input.
+  * Factorial: Calculates the factorial of the current input.
 
 3. Dependencies
-  > Python 3.x
-  > Tkinter (usually included with Python)
+  * Python 3.x
+  * Tkinter (usually included with Python)
 
 4. Picture of the Project
   
